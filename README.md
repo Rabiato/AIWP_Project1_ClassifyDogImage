@@ -1,8 +1,6 @@
 # AIWP_Project1_ClassifyDogImage
 Pre-trained Image_Classifier to Identify Dog Breeds - Udacity Project
 
-Udacity Course Project
-
 Principal Objectives
 
 Correctly identify which pet images are of dogs (even if breed is misclassified) and which pet images aren't of dogs. 
